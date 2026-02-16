@@ -2,9 +2,8 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Wireshark MitM Lab](https://github.com/kaidenstrickland/Wireshark-MitM-Lab/tree/main)
-
+- [Wireshark MitM Lab](https://github.com/kaidenstrickland/Wireshark-MitM-Lab/tree/main)</b>
+  
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/cef7eff7-7fc8-41f5-b3e4-972a21db13c7/public_url)
