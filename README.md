@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/project link
+  - [Wireshark MitM Lab](https://github.com/kaidenstrickland/Wireshark-MitM-Lab/tree/main)
 
 <h2>Certifications</h2>
 
