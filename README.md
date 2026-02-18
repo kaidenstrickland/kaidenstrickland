@@ -2,8 +2,8 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Wireshark MitM Lab](https://github.com/kaidenstrickland/Wireshark-MitM-Lab/tree/main)</b>
-  
+- [Wireshark MitM Lab](https://github.com/kaidenstrickland/Wireshark-MitM-Lab/tree/main)
+- [Something Lab](https://github.com/kaidenstrickland/Network-Security-Gateway/blob/main/README.md)
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/cef7eff7-7fc8-41f5-b3e4-972a21db13c7/public_url)
