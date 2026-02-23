@@ -2,7 +2,8 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Wireshark MitM Lab](https://github.com/kaidenstrickland/Wireshark-MitM-Lab/tree/main)
+- [Azure SOC](
+- [Wireshark Man in the Middle](https://github.com/kaidenstrickland/Wireshark-MitM-Lab/tree/main)
 - [Network Security Gateway](https://github.com/kaidenstrickland/Network-Security-Gateway/tree/main)
 
 <h2>Certifications</h2>
