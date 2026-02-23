@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Azure SOC](
+- [Azure SOC](https://github.com/kaidenstrickland/Azure-Sentinel-SOC/tree/main)
 - [Wireshark Man in the Middle](https://github.com/kaidenstrickland/Wireshark-MitM-Lab/tree/main)
 - [Network Security Gateway](https://github.com/kaidenstrickland/Network-Security-Gateway/tree/main)
 
