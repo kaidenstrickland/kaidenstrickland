@@ -13,8 +13,8 @@
 
 - <b>Active Directory</b>
   - [AD with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
-- <b>Traffic Analysis</b>
-  - [Wireshark Man in the Middle](https://github.com/kaidenstrickland/Wireshark-MitM-Lab)
+- <b>Jira Support Tickets</b>
+  - [Password Reset and Account Lockout](https://github.com/kaidenstrickland/Wireshark-MitM-Lab)
 
 
 <h2>📄 Certifications</h2>
