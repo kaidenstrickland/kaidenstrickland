@@ -9,6 +9,13 @@
 - <b>Linux Firewall</b>
   - [Network Security Gateway](https://github.com/kaidenstrickland/Network-Security-Gateway)
 
+<h2>🛜 Networking Projects:</h2>
+
+- <b>Active Directory</b>
+  - [AD with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
+- <b>Traffic Analysis</b>
+  - [Wireshark Man in the Middle](https://github.com/kaidenstrickland/Wireshark-MitM-Lab)
+
 
 <h2>📄 Certifications</h2>
 
