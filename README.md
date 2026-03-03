@@ -14,7 +14,7 @@
 - <b>Active Directory</b>
   - [AD with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
 - <b>Jira Support Tickets</b>
-  - [Password Reset and Account Lockout](https://github.com/kaidenstrickland/Wireshark-MitM-Lab)
+  - [Password Reset and Account Lockout](https://github.com/kaidenstrickland/Jira-Support-Ticket)
 
 
 <h2>📄 Certifications</h2>
