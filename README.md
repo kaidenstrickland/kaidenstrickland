@@ -15,8 +15,8 @@
   - [AD with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
 - <b>Jira Support Tickets</b>
   - [Password Reset and Account Lockout](https://github.com/kaidenstrickland/Jira-Support-Tickets)
-  - [Device Trouleshooting/Provisioning]()
-  - [File Access]()
+  - Device Trouleshooting/Provisioning
+  - File Access
 
 
 
