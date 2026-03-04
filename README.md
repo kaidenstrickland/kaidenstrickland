@@ -16,6 +16,7 @@
 - <b>Jira Support Tickets</b>
   - [Password Reset and Account Lockout](https://github.com/kaidenstrickland/Jira-Support-Tickets)
   - [Device Trouleshooting/Provisioning](https://github.com/kaidenstrickland/Jira-Support-Tickets)
+  - [File Access](https://github.com/kaidenstrickland/Jira-Support-Tickets)
 
 
 
