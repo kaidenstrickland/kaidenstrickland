@@ -7,7 +7,7 @@
 - <b>Traffic Analysis</b>
   - [Wireshark Man in the Middle](https://github.com/kaidenstrickland/Wireshark-MitM-Lab)
 - <b>Linux Firewall</b>
-  - [Network Security Gateway](https://github.com/kaidenstrickland/Network-Security-Gateway)
+  - [Network Security Gateway](https://github.com/kaidenstrickland/Troubleshoot-Deploy)
 
 <h2>🛜 Networking Projects:</h2>
 
