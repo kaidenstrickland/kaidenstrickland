@@ -10,14 +10,14 @@
 - <b>Linux Firewall</b>
   - [Network Security Gateway](https://github.com/kaidenstrickland/Troubleshoot-Deploy)
 
-<h2>🛜 Networking Projects:</h2>
+<h2>👨‍💻 Tier 1 Projects:</h2>
 
 - <b>Active Directory</b>
   - [AD with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
 - <b>Jira Support Tickets</b>
   - [Password Reset and Account Lockout](https://github.com/kaidenstrickland/Jira-Support-Tickets)
-  - Device Trouleshooting/Provisioning
   - File Access
+  - Device Trouleshooting/Provisioning
 
 
 
