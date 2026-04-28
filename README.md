@@ -10,7 +10,7 @@
 - <b>Linux Firewall</b>
   - [Network Security Gateway](https://github.com/kaidenstrickland/Troubleshoot-Deploy)
 
-<h2>👨‍💻 Tier 1 Projects:</h2>
+<h2>👨‍💻 Tier 1:</h2>
 
 - <b>Active Directory</b>
   - [AD with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
