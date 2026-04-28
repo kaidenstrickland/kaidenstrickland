@@ -13,7 +13,7 @@
 <h2>👨‍💻 Tier 1:</h2>
 
 - <b>Active Directory</b>
-  - [AD with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
+  - [Environment Creation with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
 - <b>Support with Jira</b>
   - [Password Reset](https://github.com/kaidenstrickland/Jira-Support-Tickets)
   - [Account Lockout](https://github.com/kaidenstrickland/Account-Lockout)
