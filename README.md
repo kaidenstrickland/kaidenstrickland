@@ -15,9 +15,9 @@
 - <b>Active Directory</b>
   - [AD with PowerShell](https://github.com/kaidenstrickland/Active-Directory)
 - <b>Support with Jira</b>
-  - [Password Reset and Account Lockout](https://github.com/kaidenstrickland/Jira-Support-Tickets)
+  - [Password Reset](https://github.com/kaidenstrickland/Jira-Support-Tickets)
+  - [Account Lockout](https://github.com/kaidenstrickland/Account-Lockout)
   - File Access
-  - Device Trouleshooting/Provisioning
 
 
 
