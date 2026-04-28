@@ -17,7 +17,7 @@
 - <b>Support with Jira</b>
   - [Password Reset](https://github.com/kaidenstrickland/Jira-Support-Tickets)
   - [Account Lockout](https://github.com/kaidenstrickland/Account-Lockout)
-  - File Access
+  - [File Access](https://github.com/kaidenstrickland/File-Access)
 
 
 
